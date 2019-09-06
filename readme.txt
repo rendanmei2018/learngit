@@ -1,7 +1,4 @@
-
-B
-
-
-我是小若谷，
-我是小帅哥。
-我想出去玩。
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
+Git has a mutable index called stage.
+Git tracks changes.
